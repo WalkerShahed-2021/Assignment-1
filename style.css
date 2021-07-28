@@ -30,9 +30,10 @@ section{
 }
 
 .helf-width{
-    width: 60%;
+    width: 338px;
+    height: 536px;
     float: left;
-    padding-left: 5%;
+    padding-left: 10%;
 }
 .helf-width img{
     width: 70%;
